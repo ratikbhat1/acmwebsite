@@ -1,0 +1,61 @@
+[04-Feb-2016 21:55:20 America/New_York] PHP Parse error:  syntax error, unexpected 'send_mail' (T_STRING) in /home/maithostingacm/public_html/acmwebsite/website/signup.php on line 39
+[05-Feb-2016 11:49:01 America/New_York] PHP Parse error:  syntax error, unexpected 'send_mail' (T_STRING) in /home/maithostingacm/public_html/acmwebsite/website/signup.php on line 39
+[05-Feb-2016 14:04:48 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/maithostingacm/public_html/acmwebsite/website/signup-page.php on line 66
+[05-Feb-2016 14:05:45 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/maithostingacm/public_html/acmwebsite/website/signup-page.php on line 66
+[05-Feb-2016 14:06:57 America/New_York] PHP Parse error:  syntax error, unexpected 'send_mail' (T_STRING) in /home/maithostingacm/public_html/acmwebsite/website/signup.php on line 39
+[05-Feb-2016 15:01:23 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/maithostingacm/public_html/acmwebsite/website/verify.php on line 5
+[05-Feb-2016 17:05:56 America/New_York] PHP Parse error:  syntax error, unexpected 'header' (T_STRING), expecting '(' in /home/maithostingacm/public_html/acmwebsite/website/fbLogin.php on line 62
+[05-Feb-2016 17:38:40 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/maithostingacm/public_html/acmwebsite/website/afterLogin.php on line 47
+[07-Feb-2016 13:02:52 America/New_York] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/maithostingacm/public_html/acmwebsite/website/afterLogin.php on line 26
+[07-Feb-2016 13:02:52 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/maithostingacm/public_html/acmwebsite/website/afterLogin.php on line 26
+[07-Feb-2016 13:02:57 America/New_York] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/maithostingacm/public_html/acmwebsite/website/afterLogin.php on line 26
+[07-Feb-2016 13:02:57 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/maithostingacm/public_html/acmwebsite/website/afterLogin.php on line 26
+[07-Feb-2016 13:03:01 America/New_York] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/maithostingacm/public_html/acmwebsite/website/afterLogin.php on line 26
+[07-Feb-2016 13:03:01 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/maithostingacm/public_html/acmwebsite/website/afterLogin.php on line 26
+[07-Feb-2016 13:07:16 America/New_York] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/maithostingacm/public_html/acmwebsite/website/afterLogin.php on line 26
+[07-Feb-2016 14:42:38 America/New_York] PHP Parse error:  syntax error, unexpected 'session_destroy' (T_STRING) in /home/maithostingacm/public_html/acmwebsite/website/signup.php on line 44
+[07-Feb-2016 14:54:26 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting ',' or ';' in /home/maithostingacm/public_html/acmwebsite/website/afterLogin.php on line 98
+[07-Feb-2016 16:24:34 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/maithostingacm/public_html/acmwebsite/website/afterLogin.php on line 118
+[07-Feb-2016 16:25:20 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/maithostingacm/public_html/acmwebsite/website/afterLogin.php on line 118
+[08-Feb-2016 13:49:57 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/maithostingacm/public_html/acmwebsite/website/signup.php on line 99
+[09-Feb-2016 09:49:51 America/New_York] PHP Warning:  file_get_contents(vlcsnap-2015-12-30-23h27m02s332.png): failed to open stream: No such file or directory in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 3
+[09-Feb-2016 11:35:25 America/New_York] PHP Warning:  addcslashes() expects exactly 2 parameters, 1 given in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 13
+[09-Feb-2016 11:35:25 America/New_York] PHP Warning:  addcslashes() expects exactly 2 parameters, 1 given in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 14
+[09-Feb-2016 11:35:25 America/New_York] PHP Warning:  addcslashes() expects exactly 2 parameters, 1 given in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 15
+[09-Feb-2016 11:35:25 America/New_York] PHP Warning:  addcslashes() expects exactly 2 parameters, 1 given in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 16
+[09-Feb-2016 11:35:25 America/New_York] PHP Warning:  addcslashes() expects exactly 2 parameters, 1 given in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 17
+[09-Feb-2016 11:35:25 America/New_York] PHP Warning:  addcslashes() expects exactly 2 parameters, 1 given in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 18
+[09-Feb-2016 11:35:25 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 21
+[09-Feb-2016 11:41:05 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 26
+[09-Feb-2016 11:41:27 America/New_York] PHP Warning:  addcslashes() expects exactly 2 parameters, 1 given in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 13
+[09-Feb-2016 11:41:27 America/New_York] PHP Warning:  addcslashes() expects exactly 2 parameters, 1 given in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 14
+[09-Feb-2016 11:41:27 America/New_York] PHP Warning:  addcslashes() expects exactly 2 parameters, 1 given in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 15
+[09-Feb-2016 11:41:27 America/New_York] PHP Warning:  addcslashes() expects exactly 2 parameters, 1 given in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 16
+[09-Feb-2016 11:41:27 America/New_York] PHP Warning:  addcslashes() expects exactly 2 parameters, 1 given in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 17
+[09-Feb-2016 11:41:27 America/New_York] PHP Warning:  addcslashes() expects exactly 2 parameters, 1 given in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 18
+[09-Feb-2016 11:41:27 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 21
+[09-Feb-2016 11:43:31 America/New_York] PHP Warning:  addcslashes() expects exactly 2 parameters, 1 given in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 13
+[09-Feb-2016 11:43:31 America/New_York] PHP Warning:  addcslashes() expects exactly 2 parameters, 1 given in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 14
+[09-Feb-2016 11:43:31 America/New_York] PHP Warning:  addcslashes() expects exactly 2 parameters, 1 given in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 15
+[09-Feb-2016 11:43:31 America/New_York] PHP Warning:  addcslashes() expects exactly 2 parameters, 1 given in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 16
+[09-Feb-2016 11:43:31 America/New_York] PHP Warning:  addcslashes() expects exactly 2 parameters, 1 given in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 17
+[09-Feb-2016 11:43:31 America/New_York] PHP Warning:  addcslashes() expects exactly 2 parameters, 1 given in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 18
+[09-Feb-2016 11:43:31 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 21
+[09-Feb-2016 11:44:47 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 13
+[09-Feb-2016 11:45:21 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 21
+[09-Feb-2016 12:38:42 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 21
+[09-Feb-2016 12:39:30 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 20
+[09-Feb-2016 12:44:59 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 21
+[09-Feb-2016 12:46:41 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 21
+[09-Feb-2016 12:47:43 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 21
+[09-Feb-2016 12:47:53 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 21
+[09-Feb-2016 12:51:09 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 19
+[09-Feb-2016 12:51:33 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 19
+[09-Feb-2016 13:03:08 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 19
+[09-Feb-2016 13:07:17 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 19
+[09-Feb-2016 13:17:43 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 19
+[09-Feb-2016 13:17:59 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 19
+[09-Feb-2016 13:18:57 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/maithostingacm/public_html/acmwebsite/website/register_lifi.php on line 29
+[11-Feb-2016 14:42:00 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/maithostingacm/public_html/acmwebsite/website/tpp_register.php on line 37
+[12-Feb-2016 15:26:10 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/maithostingacm/public_html/acmwebsite/website/afterLogin.php on line 63
+[13-Feb-2016 02:18:02 America/New_York] PHP Parse error:  syntax error, unexpected 'header' (T_STRING), expecting ',' or ';' in /home/maithostingacm/public_html/acmwebsite/website/signup.php on line 81

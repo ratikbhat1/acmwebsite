@@ -1,0 +1,312 @@
+/*
+
+    Association For Computing Machinery(ACM)-MAIT 
+    
+*/
+
+* {
+    border: none;
+    box-sizing: border-box;
+}
+html,
+body {
+    height: 111%;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    padding: 0;
+}
+body {
+    background-color: #212223;
+    background-attachment: fixed;
+}
+@font-face {
+    font-family: 'NexaBold';
+    src: url("../../../assets/Nexa_Bold.otf") format("opentype");
+}
+@font-face {
+    font-family: 'NexaLight';
+    src: url("../../../assets/Nexa_Light.otf") format("opentype");
+}
+nav#nav-menu {
+    z-index: 99999;
+    position: fixed;
+    top: -1px;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #212223;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 1.3);
+}
+#signout_button {
+    position: absolute;
+    top: 13px;
+    right: 9px;
+    background-color: #e7e7e7;
+    color: #555;
+    outline: none;
+    font-family: "NexaBold", sans-serif;
+    padding: 10px;
+    border: none;
+}
+img#logo {
+    height: 100px;
+    width: 100px;
+}
+#nav-menu > p {
+    color: #ededed;
+    font-family: "NexaLight", sans-serif;
+    font-weight: bold;
+}
+.profile-container {
+    margin-top: 150px;
+    height: 100%;
+    padding: 0px;
+}
+div#left-profile-div {
+    background-color: #4152BE;
+    height: 100%;
+    padding: 4px 8px;
+    margin: 0 auto;
+}
+@media (min-width: 993px) {
+    div#left-profile-div {
+        position: fixed;
+        top: 150px;
+        z-index: 999;
+    }   
+}
+div.inner-div {
+    margin: 0 auto;
+    height: 100%;
+}
+div.left-profile-div {
+    height: 100%;
+}
+.left-profile-div-class,
+.right-container {
+    height: 100%;
+}
+#user-pic {
+    border: 4px solid white;
+    height: 150px;
+    width: 150px;
+}
+#user-name {
+    text-align: center;
+    padding: 2px 4px;
+    margin-top: 5px;
+}
+.heading {
+    font-family: 'NexaBold', sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+}
+.make-column {
+    margin-top: 50px;
+    height: 25%;
+    width: 100%;
+    padding: 2px 3px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.heading-value {
+    font-family: 'NexaBold', sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1em;
+}
+#last-info {
+    margin-top: -40px;
+}
+div#right-profile-div {
+    height: 100%;
+    padding: 2px;
+}
+.right-items {
+    height: 50%;
+    width: 80%;
+    background-color: #e5e5e5;
+}
+.right-items:nth-child(1) {
+    margin-top: 20px;
+}
+.right-items:nth-child(1),
+.right-items:nth-child(2) {
+    margin-bottom: 10px;
+}
+.events {
+    width: 80%;
+    background-color: #e5e5e5;
+    margin: 0px;
+    box-sizing: border-box;
+    height: 100%;
+    padding: 5px 10px;
+}
+.item-header {
+    margin-top: 3px;
+    width: 100%;
+    height: 30px;
+    display: flex;
+}
+.item-header-info {
+    width: 42%;
+    text-align: left;
+    height: 100%;
+    border-bottom: 3px solid #4152BE;
+    font-family: "NexaBold", sans-serif;
+    color: #212223;
+    font-size: 1em;
+    padding: 4px 8px;
+    box-sizing: border-box;
+}
+.table-banner {
+    width: 100%;
+    margin-top: 2px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 35px;
+    font-family: "NexaBold", sans-serif;
+    color: #4152BE;
+    font-size: 1em;
+}
+#suggestion {
+    outline: none;
+    margin-left: 10px;
+    box-shadow: none !important;
+    border: 2px solid #4152BE;
+}
+#suggestion_form > #submit_suggestion {
+    background-color: #4152BE;
+    outline: none;
+    margin-left: 10px;
+    border: none;
+    color: white;
+}
+#suggestion_form {} .news-banner {
+    width: 100%;
+    margin-top: 5px;
+    height: 210px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.news-items {
+    padding: 4px 8px;
+    font-family: "NexaBold", sans-serif;
+    color: #4152BE;
+    font-size: 1em;
+    margin-top: 2px;
+    margin-bottom: 2px
+}
+.lifi-event {
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+#register_for_lifi {
+    background-color: #4152BE;
+    outline: none;
+    border: none;
+    color: white;
+    padding: 4px 8px;
+    border-radius: 3px;
+}
+.event_name {
+    font-weight: bold;
+    width: 100%;
+    font-size: 1.04em;
+}
+div.#left {
+    height: 35%;
+}
+div#right {
+    height: 65%;
+}
+a#event_link {
+    text-decoration: none;
+    position: absolute;
+    top: 71px;
+    right: 9px;
+    background-color: #e7e7e7;
+    color: #555;
+    outline: none;
+    font-family: "NexaBold", sans-serif;
+    padding: 10px;
+    border: none;
+}
+#right-profile-div > .container {
+    width: 100%;
+    height: 100%;
+}
+#right-profile-div > .container > .row {
+    width: inherit;
+    height: inherit;
+    margin: 0px;
+    padding-top: 5px;
+}
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+#right-profile-div > .container > .row > #form-container {
+    margin-top: 40px;
+    max-height: 693px;
+    min-height: 694px;
+    padding: 0px;
+}
+#form-container > form {
+    font-family: "NexaBold", sans-serif;
+    /* padding: 10px; */
+    
+    background-color: #e5e5e5;
+    padding: 40px;
+}
+#form-container > form > .form-head {
+    color: #333333;
+    font-size: 30px;
+}
+.form-control {
+    background-color: #e5e5e5;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid black;
+    box-shadow: none;
+    color: #212223;
+    margin-bottom: 10px;
+    border-radius: 0;
+    font-size: 18px;
+    transition: 0.5s;
+}
+.form-control:focus {
+    border: none;
+    outline: none;
+    box-shadow: none;
+    border-bottom: 2px solid #0064B0;
+    border-radius: 0%;
+    color: #212223;
+    transition: 0.5s;
+}
+.form-label {
+    font-size: 20px;
+}
+#register_button {
+    background-color: #0064B0;
+    color: #ededed;
+    font-family: 'NexaBold', sans-serif
+}
